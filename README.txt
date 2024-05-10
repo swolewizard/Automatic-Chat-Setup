@@ -1,0 +1,1 @@
+Automatically creates my chat setup with the command '/mychat'
